@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanal Kalathingal</h1>
-<h3 align="center">Innovative and entrepreneurially minded Java Microservice Architect with 8+ years of experience.</h3>
+<h3 align="center">An innovative and entrepreneurially minded Java Microservice Architect with 8+ years of experience.</h3>
 
 - 🔭 I’m currently working on **Promax - Autoclaims**
 
